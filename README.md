@@ -1,4 +1,4 @@
-BEACON Standard wallet repository
+BEACON wallet repository
 =====================================
 
 ### Coin Specs
